@@ -11,7 +11,7 @@
         <form action="" method="post">
             <b>Username: </b><input type="text" name="uname" id=""><br>
             <b>Password: </b><input type="password" name="pass" id=""><br>
-            <input type="submit" name="" id="" value="Register">
+            <input type="submit" name="" id="" value="Login">
         </form>
         <?php
         $users="users.txt";
